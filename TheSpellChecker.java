@@ -15,7 +15,7 @@ public class TheSpellChecker extends Thread{
         String dictPath = "/Users/sguindo/Documents/JavaProjects/TheFiles/dictionarySmall.txt";
 
         //The Path for the inputFile
-        String inputFilePath = "/Users/sguindo/Documents/JavaProjects/TheFiles/inputSmall2.txt";
+        String inputFilePath = "/Users/sguindo/Documents/JavaProjects/TheFiles/inputSmall.txt";
 
         Set<String> dictionary;
         List<String> fileContent;
